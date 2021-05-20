@@ -1,7 +1,5 @@
 abc
 xyz
-lmno
-ijk
 lmn
-efg
+123
 
