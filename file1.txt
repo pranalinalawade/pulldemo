@@ -1,3 +1,4 @@
 keyboard
 monitor
 mouse
+speaker
